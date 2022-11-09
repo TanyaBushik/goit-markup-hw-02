@@ -4,9 +4,6 @@
     --main-background-color: FFFFFF;
     --section-background-color: F5F4FA;
     --accent-blue: 2196F3;
-  }  
-    body {
-      font-family: "Roboto", "Relaway", sans-serif;
     }
 
 /* secondary color text 212121 */
@@ -17,5 +14,21 @@
 /* header + footer background 2F303A */
 /* h1 FFFFFF */
 
+    
+    body {
+      font-family: "Roboto", "Relaway", sans-serif;
+    }
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.header-logo {
+  font-family: "Relaway" ;
+}
 
 
