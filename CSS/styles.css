@@ -5,15 +5,10 @@
     --section-background-color: F5F4FA;
     --accent-blue: 2196F3;
   }  
-    
-    .body {
-    color: var( --primary-text-color: 757575);
-    background-color: FFFFFF;
-}
+    body {
+      font-family: "Roboto", "Relaway", sans-serif;
+    }
 
-ul {
-    list-style: none;
-}
 /* secondary color text 212121 */
 /* main text color 757575 */
 /* main background white FFFFFF */
