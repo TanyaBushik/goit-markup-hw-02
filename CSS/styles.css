@@ -16,6 +16,8 @@
 
     
     body {
+      background-color: var(--main-background-color);
+      color: var(--primary-text-color);
       font-family: "Roboto", "Relaway", sans-serif;
     }
 
