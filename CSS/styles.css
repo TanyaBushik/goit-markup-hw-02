@@ -29,8 +29,8 @@
   list-style: none;
 }
 
-.visually-hidden {
-   position: absolute;
+.visually-hidden  {
+  position: absolute;
   width: 1px;
   height: 1px;
   margin: -1px;
@@ -88,8 +88,6 @@ color: var(--primary-text-color);
   background-color: #2F303A;
 }
 .hero-title {
-font-family: 'Roboto';
-font-style: normal;
 font-weight: 900;
 font-size: 44px;
 line-height: 1.36;
@@ -151,7 +149,6 @@ color: var(--secondary-text-color);
 }
 
 .command-position {
-font-weight: 400;
 font-size: 16px;
 line-height: 1.18;
 text-align: center;
@@ -165,7 +162,6 @@ background-color: #2F303A;
 
 .footer-header-logo {
 font-family: 'Raleway', sans-serif;
-font-style: normal;
 font-weight: 700;
 font-size: 26px;
 line-height: 1.2;
@@ -183,7 +179,6 @@ font-style: normal;
 .contacts-phone,
 .contacts-address
  {
-font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
 letter-spacing: 0.03em;
@@ -191,4 +186,34 @@ color: rgba(255, 255, 255, 0.6);
 }
 .contacts-address {
 color: var(--main-background-color);
+}
+
+/*-----------PORTFOLIO--------*/
+/*-----------PORTFOLIO_ABOUT--------*/
+
+.navidation-btn {
+font-size: 16px;
+line-height: 1.62;
+letter-spacing: 0.03em;
+color: var(--secondary-text-color);
+background-color: #F5F4FA;
+cursor: pointer;
+}
+.navidation-btn:hover,
+.navidation-btn:active {
+background-color: var(--accent-blue);
+color: var(--main-background-color) 
+}
+
+/*-----------PORTFOLIO_WORKS--------*/
+.portfolio-title {
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: var(--secondary-text-color);
+}
+.portfolio-name {
+font-size: 16px;
+line-height: 1.88;
+letter-spacing: 0.03em;
 }
