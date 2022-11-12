@@ -4,7 +4,7 @@
     --main-background-color: #FFFFFF;
     --section-background-color: #F5F4FA;
     --accent-blue: #2196F3;
-    --hero-background-colr:#2F303A;
+    --hero-background-color:#2F303A;
     }
 
 /* secondary text color 212121 */
@@ -47,9 +47,6 @@
 }
 
 /*------- HEADER -----*/
-header {
-
-}
 
 .header-logo {
 font-family: 'Raleway', sans-serif;
@@ -96,7 +93,7 @@ color: var(--primary-text-color);
 
 /*------HERO---------------*/
 .hero {
-  background-color: var(--hero-background-colr);
+  background-color: var(--hero-background-color);
 }
 .hero-title {
 font-weight: 900;
@@ -135,9 +132,7 @@ background: #188CE8;
 line-height: 1.14;
 color: var(--secondary-text-color);
 }
-.about-text {
 
-}
 
 /*-----------WORK-------*/
 .work-title,
@@ -168,7 +163,7 @@ text-align: center;
 
 /* ------CONTACTS------*/
 footer {
-background-color: var(--hero-background-colr);
+background-color: var(--hero-background-color);
 }
 
 .footer-header-logo {
