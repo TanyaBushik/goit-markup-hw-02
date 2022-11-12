@@ -218,6 +218,7 @@ border-radius: 4px;
 
 /*-----------PORTFOLIO_WORKS--------*/
 .portfolio-title {
+font-weight: 700;
 font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
