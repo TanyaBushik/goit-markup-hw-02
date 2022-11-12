@@ -199,7 +199,6 @@ font-family: inherit;
 font-size: 16px;
 line-height: 1.62;
 color: var(--secondary-text-color);
-background-color: var(--main-background-color);
 cursor: pointer;
 }
 
